@@ -5,5 +5,4 @@ const testComponent = () => {
     <div>testComponent</div>
   )
 }
-
 export default testComponent
